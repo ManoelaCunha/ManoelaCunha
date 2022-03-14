@@ -43,7 +43,7 @@
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="React-router-dom" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
 </p>
 
