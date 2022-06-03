@@ -79,12 +79,6 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-<a href="https://github.com/ManoelaCunha/better-life-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=better-life-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
-</a>
-<a href="https://github.com/ManoelaCunha/cookin-receitas-afetivas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=cookin-receitas-afetivas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
-</a>
 <a href="https://github.com/ManoelaCunha/quokka-services">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=quokka-services&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
 </a>
@@ -93,6 +87,12 @@
 </a>
  <a href="https://github.com/ManoelaCunha/cookin-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=cookin-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+</a>
+ <a href="https://github.com/ManoelaCunha/cookin-receitas-afetivas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=cookin-receitas-afetivas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+</a>
+ <a href="https://github.com/ManoelaCunha/better-life-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManoelaCunha&repo=better-life-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
 </a>
 
 <!--
