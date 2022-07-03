@@ -45,6 +45,7 @@
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -69,7 +70,6 @@
 
 ### 🌱 I'm Learning
 <p>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
 </p>
 
