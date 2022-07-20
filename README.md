@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
     <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development%20Student!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
 </div>
 
@@ -44,6 +44,7 @@
     <a href="#"><img alt="React-router-dom" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
 </p>
@@ -71,6 +72,7 @@
 ### 🌱 I'm Learning
 <p>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"></a>
 </p>
 
 </br>
